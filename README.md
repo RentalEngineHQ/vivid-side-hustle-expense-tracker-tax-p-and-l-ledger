@@ -1,4 +1,4 @@
-# vivid-side-hustle-expense-tracker-tax-pndl-ledger
+# vivid-side-hustle-expense-tracker-tax-p-and-l-ledger
 
 Vivid Side-Hustle Expense Tracker & Automated Tax P&L Ledger Engine
 
