@@ -15,7 +15,7 @@ Welcome to the official repository for the Vivid Side-Hustle Expense Tracker fra
 To bypass legacy monthly business accounting software fees and initialize your break-proof digital download container, use the native operational deployment pipeline link below:
 
 ### 💼 For Premium Microsoft Excel Desktop & Mobile Workspace ($9.00 One-Time Fee)
-👉 <a href="https://gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Vivid Side-Hustle Expense Tracker Here</b></a>
+👉 <a href="https://vividledgers.gumroad.com/l/djabs" target="_blank" rel="noopener noreferrer"><b>Procure the Vivid Side-Hustle Expense Tracker Here</b></a>
 
 ---
 *Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by VividLedgers Systems under license. Hardcoded macro-free integrity. All platform data rights reserved.*
