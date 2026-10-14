@@ -5,7 +5,7 @@ Vivid Side-Hustle Expense Tracker & Automated Tax P&L Ledger Engine
 > ### 🔑 FAST-TRACK SECURE DOWNLOAD
 > Bypass legacy monthly business accounting software fees instantly. Access your permanent, offline dark-mode Excel workbook below:
 > 
-> [👉 DOWNLOAD THE EXPENSE TRACKER NOW ($9.00)] "https://vividledgers.gumroad.com/l/djabs"
+> [👉 DOWNLOAD THE EXPENSE TRACKER NOW ($9.00)] <a href="https://vividledgers.gumroad.com/l/djabs"
 > 
 > *⚡ One-Time Fee. Lifetime Ownership. Instant Local Delivery.*
 
