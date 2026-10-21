@@ -1,4 +1,4 @@
-# vivid-side-hustle-expense-tracker-tax-p-and-l-ledger
+# Side Hustle Expense Tracker Excel Spreadsheet: Tax P&L Template (No Subscriptions)
 
 Vivid Side-Hustle Expense Tracker & Automated Tax P&L Ledger Engine
 
